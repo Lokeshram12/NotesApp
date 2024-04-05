@@ -1,0 +1,16 @@
+1.what is flask?
+
+2.What are blueprints and why to use them?
+
+3.Decorators in python?
+
+4.Routes
+
+5.jinja template -python inside HTML
+
+6.use of flash messages
+
+7.sql alchemy
+
+8.sqllite
+
